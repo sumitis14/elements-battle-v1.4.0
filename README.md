@@ -1,2 +1,3 @@
-# elements-battle-v1.4.0
-Compiling all contracts and pushing with latest CDT v1.4.0
+# elemental-battles(v1.4.0)
+1. Contains frontend setup
+2. code-skeleton
