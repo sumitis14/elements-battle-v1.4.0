@@ -205,5 +205,12 @@ void cardgame::update_game_status(user_info& user) {
         game_data.status = PLAYER_LOST;
       }
     }
-  } 
+  }
+
+    // Update the lost/ win count accordingly
+  if (game_data.status == PLAYER_WON) {
+    user.win_count++;
+  } else if (game_data.status == PLAYER_LOST) {
+    user.lost_count++;
+  }  
 }
