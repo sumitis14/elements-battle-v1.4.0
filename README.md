@@ -2,7 +2,8 @@
 
 ##
 1. frontend setup
-2. code-skeleton
+2. `L2/L4/L5` contains code from lessons from EB repo.
+3. `contract-code-final` is the one that needs to be compiled and deployed
 
 ## Running instructions
 1. Make sure you create an account in Jungle net
